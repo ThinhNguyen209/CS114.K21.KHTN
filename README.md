@@ -1,19 +1,19 @@
-#Profile
-Name: Nguyen Vuong Thinh
+# PROFILE
+**Name**: Nguyen Vuong Thinh
 
-ID: 18520367
+**ID**: 18520367
 
-University: University Of Information Technology
+**University**: University Of Information Technology
 
-Falcuty: Computer Science
+**Falcuty**: Computer Science
 
-Class: KHTN2018
+**Class**: KHTN2018
 
-Character: friendly, helful, sociable
+**Character**: friendly, helful, sociable
 
-Hobby: Swimming, reading books, learn something new
+**Hobby**: Swimming, reading books, learn something new
 
-Favorite color: Green
+**Favorite color**: Green
 
 
 
