@@ -21,8 +21,10 @@
  ## 3. THU THẬP DỮ LIỆU:
  - Loại dữ liệu: ảnh jpg
  - Phương thức: lập nhóm 3 người có chung ý tưởng làm đồ án liên quan về trái cây 
+  - Train data: chúng em chụp hình và quay trái cây với nhiều góc quay khác nhau. Trong phần quay, chúng em lọc lấy frame ảnh
+  - Test data: chúng em chụp hình là chủ yếu
  - Địa điểm thu thập: siêu thị, chợ, cây nhà lá vườn
- - Thống kê số lượng trái của mỗi loại:
+ - Thống kê số lượng trái cây của mỗi loại:
  
   |      | Train data | Test data |   |   |
 |------|------------|-----------|---|---|
@@ -32,5 +34,7 @@
  ## 4. TIỀN XỬ LÍ DỮ LIỆU:
  - Phương thức: tiếp tục làm nhóm
  - Các bước thực hiện:
-  - Xén ảnh để loại bỏ background thừa, có thể gây nhiễu
+  - Xén ảnh để loại bỏ background thừa, có thể gây nhiễu. Trong đó em phụ trách cắt:
+    - Train data: táo, 
+    - Test data: 
   - 
