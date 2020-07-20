@@ -16,11 +16,20 @@
  - Địa điểm thu thập: siêu thị, chợ, cây nhà lá vườn
  - Thống kê số lượng trái cây của mỗi loại:
  
-  |      | Train data | Test data |   |   |
-|------|------------|-----------|---|---|
-| Ổi   |            |           |   |   |
-| Xoài |            |           |   |   |
-| Mận  |            |           |   |   |
+|             | Train dataset | Test dataset |
+|-------------|---------------|--------------|
+| Ổi          | 697           | 434          |
+| Xoài        | 764           | 402          |
+| Mận         | 1149          | 533          |
+| Khế         | 941           | 434          |
+| Dừa         | 1055          | 330          |
+| Cam         | 1038          | 650          |
+| Táo         | 902           | 457          |
+| Mãn Cầu(Na) | 1053          | 307          |
+| Dưa hấu     | 710           | 447          |
+| Bơ          | 1262          | 416          |
+| Thanh long  | 356           | 394          |
+| Chuối       | 1160          | 348          |
  ## 4. TIỀN XỬ LÍ DỮ LIỆU:
  - Phương thức: tiếp tục làm nhóm
  - Các bước thực hiện:
