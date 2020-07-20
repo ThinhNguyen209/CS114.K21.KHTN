@@ -6,18 +6,8 @@
   - Input: là bức ảnh chụp một trái cây
   - Output: là tên của loại trái trong ảnh
 - Có 12 loại trái cây được dùng trong đồ án gồm:
-  - Táo
-  - Ổi
-  - Bơ
-  - Mãng cầu
-  - Mận
-  - Dừa
-  - Dưa hấu
-  - Khế
-  - Chuối
-  - Xoài
-  - Cam
-  - Thanh long
+  ![image fruit-1](https://user-images.githubusercontent.com/62539475/87951188-77331200-cad2-11ea-89b6-74b2bea1d883.jpg)
+
  ## 3. THU THẬP DỮ LIỆU:
  - Loại dữ liệu: ảnh jpg
  - Phương thức: lập nhóm 3 người có chung ý tưởng làm đồ án liên quan về trái cây 
