@@ -36,12 +36,11 @@
 | Thanh long  |      394      |      200     |
 | Chuối       |      1160     |      200     |
  ### 2. CHUẨN BỊ DỮ LIỆU:
- - Phương thức: tiếp tục làm nhóm
  - Các bước thực hiện:
-  - Xén ảnh thủ công để loại bỏ background thừa, có thể gây nhiễu (tốn thời gian làm nhất)
-  - Resize ảnh với kích thước 256x256. 
- - Rút trích đặt trưng: làm cá nhân 
-  -Sử dụng HOG(Histogram of Oriented Gradients)
+  - Xén ảnh thủ công để loại bỏ background thừa, có thể gây nhiễu (tốn thời gian làm nhất) : tiếp tục làm nhóm
+  - Resize ảnh với kích thước 256x256: làm cá nhân 
+ - Rút trích đặt trưng: làm cá nhân. 
+    -Sử dụng HOG(Histogram of Oriented Gradients)
 ### 3. CHỌN MODEL:
 - Support Vector Machine (SVC)
 - K-Nearest Neighbor
