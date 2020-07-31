@@ -16,7 +16,7 @@
   - Test data: chúng em chụp hình là chủ yếu
  - Địa điểm thu thập: siêu thị, chợ, cây nhà lá vườn
  - Bộ dataset lúc đầu: 15200 ảnh nhưng do em lọc bớt ảnh gây nhiễu với trùng nhau còn là 14337 ảnh
- - Thống kê số lượng trái cây của mỗi loại:
+ - Thống kê số lượng ảnh của mỗi loại trái cây:
  
 |             | Train dataset | Test dataset |
 |-------------|---------------|--------------|
@@ -35,7 +35,7 @@
  ### 2. CHUẨN BỊ DỮ LIỆU:
  - Phương thức: tiếp tục làm nhóm
  - Các bước thực hiện:
-  - Xén ảnh để loại bỏ background thừa, có thể gây nhiễu
+  - Xén ảnh để loại bỏ background thừa, có thể gây nhiễu (tốn thời gian làm nhất)
   - Resize ảnh với kích thước 256x256. 
  - Rút trích đặt trưng: làm cá nhân 
   -Sử dụng HOG(Histogram of Oriented Gradients)
