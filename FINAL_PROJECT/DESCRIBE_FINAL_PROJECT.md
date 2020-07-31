@@ -9,6 +9,7 @@
   ![image fruit-1](https://user-images.githubusercontent.com/62539475/87951188-77331200-cad2-11ea-89b6-74b2bea1d883.jpg)
 
  ## 3. THU THẬP DỮ LIỆU:
+ ![116298614_318765245945721_8799007558729821363_n](https://user-images.githubusercontent.com/62539475/88999006-907f5e00-d31d-11ea-8b95-04f5f842f899.jpg)
  - Loại dữ liệu: ảnh jpg
  - Phương thức: lập nhóm 3 người có chung ý tưởng làm đồ án liên quan về trái cây 
   - Train data: chúng em chụp hình và quay trái cây với nhiều góc quay khác nhau. Trong phần quay, chúng em lọc lấy frame ảnh
@@ -18,18 +19,18 @@
  
 |             | Train dataset | Test dataset |
 |-------------|---------------|--------------|
-| Ổi          |      697      |      434     |
-| Xoài        |      764      |      402     |
-| Mận         |      1149     |      533     |
-| Khế         |      941      |      434     |
-| Dừa         |      1055     |      330     |
-| Cam         |      1038     |      650     |
-| Táo         |      902      |      457     |
-| Mãn Cầu(Na) |      1053     |      307     |
-| Dưa hấu     |      710      |      447     |
-| Bơ          |      1262     |      416     |
-| Thanh long  |      356      |      394     |
-| Chuối       |      1160     |      348     |
+| Ổi          |      697      |      200     |
+| Xoài        |      764      |      200     |
+| Mận         |      1149     |      200     |
+| Khế         |      941      |      200     |
+| Dừa         |      1055     |      200     |
+| Cam         |      1038     |      200     |
+| Táo         |      902      |      200     |
+| Mãn Cầu(Na) |      1053     |      200     |
+| Dưa hấu     |      710      |      200     |
+| Bơ          |      1262     |      200     |
+| Thanh long  |      356      |      200     |
+| Chuối       |      1160     |      200     |
  ## 4. TIỀN XỬ LÍ DỮ LIỆU:
  - Phương thức: tiếp tục làm nhóm
  - Các bước thực hiện:
