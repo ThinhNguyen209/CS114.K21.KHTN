@@ -35,7 +35,7 @@
  ### 2. CHUẨN BỊ DỮ LIỆU:
  - Phương thức: tiếp tục làm nhóm
  - Các bước thực hiện:
-  - Xén ảnh để loại bỏ background thừa, có thể gây nhiễu (tốn thời gian làm nhất)
+  - Xén ảnh thủ công để loại bỏ background thừa, có thể gây nhiễu (tốn thời gian làm nhất)
   - Resize ảnh với kích thước 256x256. 
  - Rút trích đặt trưng: làm cá nhân 
   -Sử dụng HOG(Histogram of Oriented Gradients)
