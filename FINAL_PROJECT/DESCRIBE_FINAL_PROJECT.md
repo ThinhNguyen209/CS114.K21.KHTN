@@ -15,6 +15,7 @@
   - Train data: chúng em chụp hình và quay trái cây với nhiều góc quay khác nhau. Trong phần quay, chúng em lọc lấy frame ảnh
   - Test data: chúng em chụp hình là chủ yếu
  - Địa điểm thu thập: siêu thị, chợ, cây nhà lá vườn
+ - Bộ dataset lúc đầu: 15200 ảnh nhưng do em lọc bớt ảnh gây nhiễu với trùng nhau còn là 14337 ảnh
  - Thống kê số lượng trái cây của mỗi loại:
  
 |             | Train dataset | Test dataset |
